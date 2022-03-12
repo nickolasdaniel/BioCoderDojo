@@ -1,4 +1,4 @@
-# PROGRAMMING
+# BioCoderDojo - Python for Bioinformatics
 
 ## The Basics - Week #2
 
